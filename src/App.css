@@ -1,0 +1,9 @@
+.book-content {
+  transition: 0.5s;
+  cursor: pointer;
+  box-shadow: 2px 3px;
+}
+
+.book-content:hover {
+  transform: scale(1.1);
+}
